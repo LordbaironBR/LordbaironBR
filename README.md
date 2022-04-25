@@ -24,4 +24,4 @@
 
 
 	
-	<figure><embed src="https://wakatime.com/share/@LordbaironBR/ce7ce3ae-45b6-4133-a4c2-7ba8b87a1d28.svg"></embed></figure>
+	<embed src="https://wakatime.com/share/@LordbaironBR/ce7ce3ae-45b6-4133-a4c2-7ba8b87a1d28.svg"></embed>
