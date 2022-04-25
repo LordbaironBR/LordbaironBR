@@ -20,6 +20,8 @@
 	<a href="mailto:henriquerf2@fmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a href="https://www.linkedin.com/in/henrique-rosa-freire-08333b193/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 	<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=https://share-cdn.picrew.me/shareImg/thumb/202203/1477859_sfFrNX78.jpg>
+</div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+	
+	<iframe><embed src="https://wakatime.com/share/@LordbaironBR/e51cd7ff-fdf2-467a-b9a1-e0f180b424d8.svg"></embed></iframe>
