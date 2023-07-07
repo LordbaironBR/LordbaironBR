@@ -19,9 +19,10 @@
 	<a href="https://www.instagram.com/lordbaironbr" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 	<a href="mailto:henriquerf2@fmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a href="https://www.linkedin.com/in/henrique-rosa-freire-08333b193/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-	<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=https://share-cdn.picrew.me/shareImg/thumb/202203/1477859_sfFrNX78.jpg>
 </div>
 
-
-	![DashBoard Wakatime](https://wakatime.com/share/@LordbaironBR/ce7ce3ae-45b6-4133-a4c2-7ba8b87a1d28.svg)
+<div>
+	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@LordbaironBR/8b66485c-261a-4dc6-94f9-e0a961e6c118.png" /></a>
+</div>
+	
 	
