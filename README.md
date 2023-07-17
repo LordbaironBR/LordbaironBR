@@ -22,7 +22,6 @@
 
 <div>
 	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@LordbaironBR/8b66485c-261a-4dc6-94f9-e0a961e6c118.png" /></a>
-	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@LordbaironBR/c0272b98-8233-48d9-a7e1-6206f0c5d140.png" /></a>
 </div>
 	
 	
