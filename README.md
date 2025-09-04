@@ -8,9 +8,4 @@
 	<a href="mailto:henriquerf2@fmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a href="https://www.linkedin.com/in/henrique-rosa-freire-08333b193/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-
-<div>
-	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@LordbaironBR/8b66485c-261a-4dc6-94f9-e0a961e6c118.png" /></a>
-</div>
-	
 	
